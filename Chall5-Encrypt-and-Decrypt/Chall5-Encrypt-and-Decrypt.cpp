@@ -49,7 +49,7 @@ int main()
 		std::cout << user_entry_decrypt << " decrypted with the preset key is " << decrypted << "\n";
 		break;
 	default:
-		std::cout << "\nPlease enter 1 or 2 for your selection\n";
+		std::cout << "\nPlease enter 1 or 2 for your selection\n" << std::endl;
 		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 		main();
 		break;

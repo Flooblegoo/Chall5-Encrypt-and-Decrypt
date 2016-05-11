@@ -1,4 +1,3 @@
-﻿  stdafx.cpp
-  Chall5-Encrypt-and-Decrypt.cpp
+﻿  Chall5-Encrypt-and-Decrypt.cpp
 g:\documents\programming\c++\github\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt.cpp(13): warning C4018: '<': signed/unsigned mismatch
   Chall5-Encrypt-and-Decrypt.vcxproj -> G:\Documents\Programming\C++\GitHub\Chall5-Encrypt-and-Decrypt\Debug\Chall5-Encrypt-and-Decrypt.exe
