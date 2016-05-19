@@ -1,3 +1,5 @@
-﻿  Chall5-Encrypt-and-Decrypt.cpp
-g:\documents\programming\c++\github\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt.cpp(13): warning C4018: '<': signed/unsigned mismatch
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'g:\documents\programming\c++\github\chall5-encrypt-and-decrypt\debug\chall5-encrypt-and-decrypt.pdb' because it is being used by another process.
+  stdafx.cpp
+  Chall5-Encrypt-and-Decrypt.cpp
+g:\documents\programming\c++\github\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt\chall5-encrypt-and-decrypt.cpp(18): warning C4018: '<': signed/unsigned mismatch
   Chall5-Encrypt-and-Decrypt.vcxproj -> G:\Documents\Programming\C++\GitHub\Chall5-Encrypt-and-Decrypt\Debug\Chall5-Encrypt-and-Decrypt.exe
